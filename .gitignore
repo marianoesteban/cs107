@@ -1,0 +1,42 @@
+# Compiled Object files
+*.o
+
+# Emacs
+*~
+\#*\#
+
+# Assignment 1
+assn-1-rsg/.AppleDouble/
+assn-1-rsg/rsg
+assn-1-rsg/rsg-sample-linux
+assn-1-rsg/rsg-sample-solaris
+
+# Assignment 2
+assn-2-six-degrees/imdb-test
+assn-2-six-degrees/imdb-test-linux
+assn-2-six-degrees/imdb-test-solaris
+assn-2-six-degrees/six-degrees
+assn-2-six-degrees/six-degrees-linux
+assn-2-six-degrees/six-degrees-solaris
+
+# Assignment 3
+assn-3-vector-hashset/.pure
+assn-3-vector-hashset/hashset-test
+assn-3-vector-hashset/thesaurus-lookup
+assn-3-vector-hashset/thesaurus-lookup-linux
+assn-3-vector-hashset/thesaurus-lookup-solaris
+assn-3-vector-hashset/vector-test
+
+# Assignment 4
+assn-4-rss-news-search/rss-news-search
+assn-4-rss-news-search/rss-news-search-linux
+assn-4-rss-news-search/rss-news-search-solaris
+
+# Assignment 6
+assn-6-rss-news-search/rss-news-search
+
+# Assignment 7
+assn-7-where-am-i/scheme-examples.scm
+
+# Assignment 8
+assn-8-align/solution.pyc
